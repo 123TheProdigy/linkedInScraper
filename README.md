@@ -1,0 +1,2 @@
+# linkedInScraper
+Scrape LinkedIn profiles 
